@@ -5,6 +5,7 @@ use \App\Text\Translate;
 
 $targetLanguages = ['en', 'es'];
 
+// Cole aqui o array a ser traduzido.
 $array = array();
 
 foreach($array as $key=>$value)
