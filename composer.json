@@ -1,0 +1,11 @@
+{
+    "name" : "ruirjcj/google-tradutor",
+    "autoload": {
+        "psr-4": {
+            "App\\":"app/"
+        }
+    },
+    "require": {
+        "google/cloud-translate": "^1.12"
+    }
+}
