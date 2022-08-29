@@ -12,7 +12,7 @@ class Translate{
     private static function getClient()
     {
         return new TranslateClient([
-            'key' => 'AIzaSyAIilTvaydt5mZ-MtM05lqSRd1ros0nAmo'
+            'key' => ''
         ]);
     }
 
